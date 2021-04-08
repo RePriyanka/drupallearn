@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="96px" height="111px" viewBox="0 0 96 111" enable-background="new 0 0 96 111" xml:space="preserve">
+<defs>
+</defs>
+<g>
+	<defs>
+		<rect id="SVGID_1_" width="96" height="110.896"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_2_)">
+		<defs>
+			<rect id="SVGID_3_" width="96" height="110.896"/>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_3_"  overflow="visible"/>
+		</clipPath>
+		<path clip-path="url(#SVGID_4_)" fill="#E72420" d="M52.193,63.008c0-0.662,0.44-0.993,1.104-0.553l23.283,13.572
+			c0.551,0.332,0.551,0.884,0,1.214L53.298,90.814c-0.552,0.331-0.993,0.11-0.993-0.662L52.193,63.008z"/>
+		<path clip-path="url(#SVGID_4_)" d="M44.248,56.498L17.546,41.159c-0.663-0.331-1.103-0.111-1.103,0.662v30.786
+			c0,0.661,0.552,1.545,1.103,1.875l26.702,15.339c0.664,0.331,1.104,0.11,1.104-0.662V58.373
+			C45.352,57.711,44.8,56.828,44.248,56.498"/>
+		<path clip-path="url(#SVGID_4_)" d="M21.187,35.642L47.559,51.2c0.551,0.332,1.546,0.332,2.207,0L76.69,35.642
+			c0.553-0.332,0.66-0.882,0-1.324L50.317,18.759c-0.552-0.331-1.544-0.331-2.208,0L21.187,34.318
+			C20.635,34.649,20.635,35.311,21.187,35.642"/>
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="0" y="0" width="96.001" height="110.896">
+				<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="0" y="0" width="96.001" height="110.896" id="SVGID_5_">
+			<g filter="url(#Adobe_OpacityMaskFilter)">
+				<rect clip-path="url(#SVGID_4_)" width="96.001" height="110.896"/>
+				<g enable-background="new    ">
+					<rect clip-path="url(#SVGID_4_)" fill="#FFFFFF" width="96" height="110.896"/>
+				</g>
+			</g>
+		</mask>
+		<g clip-path="url(#SVGID_4_)" mask="url(#SVGID_5_)">
+			<g>
+				<defs>
+					<rect id="SVGID_6_" width="96" height="110.896"/>
+				</defs>
+				<clipPath id="SVGID_7_">
+					<use xlink:href="#SVGID_6_"  overflow="visible"/>
+				</clipPath>
+				<path clip-path="url(#SVGID_7_)" d="M48.11,0L0,27.697V83.2l48,27.696l48-27.696V27.697L48.11,0z M87.614,78.346L48.11,101.187
+					L8.607,78.346V32.663L48.11,9.821l39.504,22.842V78.346z"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
